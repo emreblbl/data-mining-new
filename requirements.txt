@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+pydevd-pycharm~=233.13135.95
+pd
+selenium
